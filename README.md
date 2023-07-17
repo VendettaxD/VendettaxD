@@ -7,6 +7,11 @@ Olá, me chamo Hassan e sou um aprendiz de dev Front-End.
 
 Como dito a cima, me chamo Hassan Dutra, tenho 16 anos e sou um entusiasta na area de programação Front-End, sou familiarizado com HTML, CSS, React, Javascript, TailWindCSS e o basico de Phyton.
 ## 🛠 Habilidades
-Javascript, HTML, CSS, React e TailwindCSS.
-[![Netlify Status](https://api.netlify.com/api/v1/badges/e4a7e64b-8cff-489c-b126-deeae70159e2/deploy-status)](https://app.netlify.com/sites/sebolereka/deploys)
+Javascript, HTML, CSS...
 
+
+## Licença
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
