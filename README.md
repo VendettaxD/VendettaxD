@@ -5,7 +5,7 @@ Olá, me chamo Hassan e sou um aprendiz de dev Front-End.
 
 # Olá, eu sou o Hassan! 👋
 
-Como dito a cima, me chamo Hassan Dutra, tenho 18 anos e sou um entusiasta na area de programação Front-End, sou familiarizado com HTML, CSS, React, Javascript, TailWindCSS e o basico de Phyton.
+Como dito a cima, me chamo Hassan Dutra, tenho 16 anos e sou um entusiasta na area de programação Front-End, sou familiarizado com HTML, CSS, React, Javascript, TailWindCSS e o basico de Phyton.
 <h3 align="left">🛠 Linguagens e ferramentas</h3>
 
 ###
