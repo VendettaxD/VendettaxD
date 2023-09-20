@@ -7,7 +7,19 @@ Olá, me chamo Hassan e sou um aprendiz de dev Front-End.
 
 Como dito a cima, me chamo Hassan Dutra, tenho 18 anos e sou um entusiasta na area de programação Front-End, sou familiarizado com HTML, CSS, React, Javascript, TailWindCSS e o basico de Phyton.
 ## 🛠 Habilidades
-Javascript, HTML, CSS...
+<h3 align="left">🛠 Linguagens e ferramentas</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+</div>
 
 
 ## Licença
